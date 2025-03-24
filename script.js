@@ -1,4 +1,3 @@
-//complete this code
 class Animal {
 	constructor(species){
 		this.species=species
@@ -41,6 +40,7 @@ myCat.purr();
 const myDog = new Dog("Golden Retriever");
 myDog.makeSound();
 myDog.bark();
+
 
 // Do not change the code below this line
 window.Animal = Animal;
